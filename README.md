@@ -2,7 +2,7 @@
 Some SWE/PM/Designer related career resources for students
 
 ## Career Fair Events
-[Greylock Techfair](https://www.greylock.com/greylock-u/techfair/) Airbnb, Pinterest, Quora, etc. Greylock is a very successful VC firm (they invested in Facebook, Airbnb, Linkedin). They organize a career fair every summer in SF and you need to apply and get accepted to be there. Companies like Airbnb, Pinterest, Quora, etc. will come. They share your resumes with the companies before the event so you don't have to bring a resume, but I still strongly recommend you show up in person.
+[Greylock Techfair](https://www.greylock.com/greylock-u/techfair/) Greylock is a very successful VC firm (they invested in Facebook, Airbnb, Linkedin). They organize a career fair every summer in SF and you need to apply and get accepted to be there. Companies like Airbnb, Pinterest, Quora, etc. will come. They share your resumes with the companies before the event so you don't have to bring a resume, but I still strongly recommend you show up in person.
 
 [Start @ a Startup](http://startup.businesstoday.org/) This is held by Sequoia, another very successful VC firm (they invested in Airbnb, PayPal, Github, YouTube). You also need to apply and get accepted for this one. It is a 2-day event in NY during October, and companies that come are usually in an earlier stage than those in the Greylock event. Lots of onsite interviews happen there, and some companies would treat you dinner at very nice restaurants.
 
