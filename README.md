@@ -13,6 +13,7 @@ KPCB Fellows: http://kpcbfellows.com/  They have 3 types of internships: Design,
 
 ## Preparation
 [Leetcode](https://leetcode.com/)
+
 [Facebook Code Lab](https://codelab.interviewbit.com/)
 
 ## Communities
