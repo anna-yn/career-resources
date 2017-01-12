@@ -16,6 +16,9 @@ KPCB Fellows: http://kpcbfellows.com/  They have 3 types of internships: Design,
 
 [Facebook Code Lab](https://codelab.interviewbit.com/)
 
+## Hackathons
+A list of hackathons in North America: https://mlh.io/seasons/na-2017/events
+
 ## Communities
 [Women Techmakers](https://www.womentechmakers.com/)
 
