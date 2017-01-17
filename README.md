@@ -1,6 +1,16 @@
 # career-resources
 Some SWE/PM/Designer related career resources for students
 
+## Contents
+- [Career Fair Events](#career-fair-events)
+- [CS Internships for Freshmen and Sophomores](#cs-internships-for-freshmen-and-sophomores)
+- [Startup Jobs](#startup-jobs)
+- [Companies that have Data Science Internships](#companies-that-have-data-science-internships)
+- [Interview Preparation](#interview-preparation)
+- [Hackathons](#hackathons)
+- [Communities](#communities)
+- [Other](#other)
+
 ## Career Fair Events
 [Greylock Techfair](https://www.greylock.com/greylock-u/techfair/) Greylock is a very successful VC firm (they invested in Facebook, Airbnb, Linkedin). They organize a career fair every summer in SF and you need to apply and get accepted to be there. Companies like Airbnb, Pinterest, Quora, etc. will come. They share your resumes with the companies before the event so you don't have to bring a resume, but I still strongly recommend you show up in person.
 
@@ -35,9 +45,16 @@ Twitter Academy (Freshmen only)
 
 [Application to Greylock's Portfolio Companies](http://www.greylock.com/careers/)
 
-
-## Other
-[Google Summer of Code](https://developers.google.com/open-source/gsoc/)
+## Companies that have Data Science Internships
+- Airbnb
+- [Etsy](https://www.etsy.com/careers/job/e5fb252a-4a68-480c-bee0-79534a4808cd)
+- [Facebook](https://www.facebook.com/careers/jobs/a0I1200000JZJxXEAX/), there's also another one for [Core Data Science, PhD Intern/Co-op](https://www.facebook.com/careers/jobs/a0I1200000JZLMUEA5/)
+- [Knewton](https://jobs.lever.co/knewton/79090e31-dc2c-4445-b443-88aed9c68f3e)
+- LinkedIn
+- [Quora](https://www.quora.com/careers/data_scientist_intern)
+- Twitter
+- [Uber](https://www.uber.com/careers/list/25458/)
+- [Zillow Big Data Intern](http://www.zillow.com/jobs/openings?j=osrc4fwT)
 
 ## Interview Preparation
 [Leetcode](https://leetcode.com/)
@@ -67,4 +84,9 @@ Find a Tech [Meetup](https://www.meetup.com/find/tech/?allMeetups=false&radius=2
 
 [HH Job Listings](https://www.facebook.com/groups/254805221385780)
 
-Not really career related but: Code Jam to IO for Women https://sites.google.com/site/codejamtoioforwomen/ basically you solve algo problems online and the top 125 or something gets a free ticket to Google I/O. The problems are a lot easier than the real Code Jam. 
+
+## Other
+
+[Google Summer of Code](https://developers.google.com/open-source/gsoc/)
+
+[Code Jam to IO for Women](https://sites.google.com/site/codejamtoioforwomen/) basically you solve algo problems online and the top 125 or something gets a free ticket to Google I/O. The problems are a lot easier than the real Code Jam. 
