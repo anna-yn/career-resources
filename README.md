@@ -16,6 +16,10 @@ KPCB Fellows: http://kpcbfellows.com/  They have 3 types of internships: Design,
 
 [Facebook Code Lab](https://codelab.interviewbit.com/)
 
+[Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
+
+[Great resources for System Design Interviews](https://github.com/checkcheckzz/system-design-interview#toc)
+
 ## Hackathons
 A list of hackathons in North America: https://mlh.io/seasons/na-2017/events
 
