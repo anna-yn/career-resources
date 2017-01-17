@@ -28,9 +28,13 @@ Twitter Academy (Freshmen only)
 
 ## Startup Jobs
 [AngelList](https://angel.co/jobs)
+
 [Sequoia Capital's Job Board](https://www.sequoiacap.com/jobs/)
+
 [Sequoia Campus - Application to Sequoia's Portfolio Companies for Students](https://www.sequoiacap.com/campus)
+
 [Application to Greylock's Portfolio Companies](http://www.greylock.com/careers/)
+
 
 ## Other
 [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
