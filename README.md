@@ -24,17 +24,12 @@ KPCB Fellows: http://kpcbfellows.com/  They have 3 types of internships: Design,
 ## CS Internships for Freshmen and Sophomores
 Note: The internships in this section are specifically open for Freshmen and/or Sophomores. Internships for all students are not listed here.
 
-[Google Engineering Practicum Intern](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2017-901-cherry-ave-san-bruno-ca-usa-1822470062&)
-
-[Facebook University for Engineering](https://m.facebook.com/careers/university/fbueng)
-
-[Microsoft Explore](https://careers.microsoft.com/students/explore)
-
-Pinterest Engage Software Engineer Intern (Freshmen only)
-
-Twitter Academy (Freshmen only)
-
-[Two Sigma Freshman Software Engineering Intern (Freshmen only)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Freshman-Software-Engineering-Intern/1760)
+- [Google Engineering Practicum Intern](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2017-901-cherry-ave-san-bruno-ca-usa-1822470062&)
+- [Facebook University for Engineering](https://m.facebook.com/careers/university/fbueng)
+- [Microsoft Explore](https://careers.microsoft.com/students/explore)
+- Pinterest Engage Software Engineer Intern (Freshmen only)
+- Twitter Academy (Freshmen only)
+- [Two Sigma Freshman Software Engineering Intern (Freshmen only)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Freshman-Software-Engineering-Intern/1760)
 
 ## Startup Jobs
 - [AngelList](https://angel.co/jobs)
@@ -55,36 +50,26 @@ Twitter Academy (Freshmen only)
 - [Zillow Big Data Intern](http://www.zillow.com/jobs/openings?j=osrc4fwT)
 
 ## Interview Preparation
-[Leetcode](https://leetcode.com/)
-
-[Facebook Code Lab](https://codelab.interviewbit.com/)
-
-[Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
-
-[Great resources for System Design Interviews](https://github.com/checkcheckzz/system-design-interview#toc)
+- [Leetcode](https://leetcode.com/)
+- [Facebook Code Lab](https://codelab.interviewbit.com/)
+- [Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
+- [Great resources for System Design Interviews](https://github.com/checkcheckzz/system-design-interview#toc)
 
 ## Hackathons
 A list of hackathons in North America: https://mlh.io/seasons/na-2017/events
 
 ## Communities
-[Women Techmakers](https://www.womentechmakers.com/)
-
-Find a Tech [Meetup](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=san+francisco&gcResults=San+Francisco%2C+CA%2C+USA%3AUS%3ACalifornia%3ASan+Francisco+County%3ASan+Francisco%3Anull%3Anull%3A37.7749295%3A-122.41941550000001&change=yes&sort=default&eventFilter=mysugg) near you. E.g. a [Google Developer Group Meetup](https://www.meetup.com/google-developer-group-san-francisco/)
+- [Women Techmakers](https://www.womentechmakers.com/)
+- Find some Tech [Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=san+francisco&gcResults=San+Francisco%2C+CA%2C+USA%3AUS%3ACalifornia%3ASan+Francisco+County%3ASan+Francisco%3Anull%3Anull%3A37.7749295%3A-122.41941550000001&change=yes&sort=default&eventFilter=mysugg) near you. E.g. a [Google Developer Group Meetup](https://www.meetup.com/google-developer-group-san-francisco/)
+- [Reddit cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
 
 ### FB Groups: 
-[Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers)
-
-[HH Coding Interview Prep](https://www.facebook.com/groups/hhcodinginterviewprep)
-
-[HH Interview Experiences](https://www.facebook.com/groups/interviewexper)
-
-[HH Websites and Resumes](https://www.facebook.com/groups/1487708811477672)
-
-[HH Job Listings](https://www.facebook.com/groups/254805221385780)
-
+- [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers)
+- [HH Coding Interview Prep](https://www.facebook.com/groups/hhcodinginterviewprep)
+- [HH Interview Experiences](https://www.facebook.com/groups/interviewexper)
+- [HH Websites and Resumes](https://www.facebook.com/groups/1487708811477672)
+- [HH Job Listings](https://www.facebook.com/groups/254805221385780)
 
 ## Other
-
-[Google Summer of Code](https://developers.google.com/open-source/gsoc/)
-
-[Code Jam to IO for Women](https://sites.google.com/site/codejamtoioforwomen/) basically you solve algo problems online and the top 125 or something gets a free ticket to Google I/O. The problems are a lot easier than the real Code Jam. 
+- [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
+- [Code Jam to IO for Women](https://sites.google.com/site/codejamtoioforwomen/) basically you solve algo problems online and the top 125 or something gets a free ticket to Google I/O. The problems are a lot easier than the real Code Jam. 
