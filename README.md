@@ -37,13 +37,11 @@ Twitter Academy (Freshmen only)
 [Two Sigma Freshman Software Engineering Intern (Freshmen only)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Freshman-Software-Engineering-Intern/1760)
 
 ## Startup Jobs
-[AngelList](https://angel.co/jobs)
-
-[Sequoia Capital's Job Board](https://www.sequoiacap.com/jobs/)
-
-[Sequoia Campus - Application to Sequoia's Portfolio Companies for Students](https://www.sequoiacap.com/campus)
-
-[Application to Greylock's Portfolio Companies](http://www.greylock.com/careers/)
+- [AngelList](https://angel.co/jobs)
+- [Sequoia Capital's Job Board](https://www.sequoiacap.com/jobs/)
+- [Sequoia Campus - Application to Sequoia's Portfolio Companies for Students](https://www.sequoiacap.com/campus)
+- [Application to Greylock's Portfolio Companies](http://www.greylock.com/careers/)
+- [Y Combinator Job Board](https://news.ycombinator.com/jobs), you can also apply through [Triplebyte](https://triplebyte.com/) for YC startup jobs
 
 ## Companies that have Data Science Internships
 - Airbnb
