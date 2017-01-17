@@ -26,6 +26,12 @@ Twitter Academy (Freshmen only)
 
 [Two Sigma Freshman Software Engineering Intern (Freshmen only)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Freshman-Software-Engineering-Intern/1760)
 
+## Startup Jobs
+[AngelList](https://angel.co/jobs)
+[Sequoia Capital's Job Board](https://www.sequoiacap.com/jobs/)
+[Sequoia Campus - Application to Sequoia's Portfolio Companies for Students](https://www.sequoiacap.com/campus)
+[Application to Greylock's Portfolio Companies](http://www.greylock.com/careers/)
+
 ## Other
 [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
 
