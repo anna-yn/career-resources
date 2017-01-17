@@ -11,6 +11,24 @@ Some SWE/PM/Designer related career resources for students
 There's another one that's for internships only:
 KPCB Fellows: http://kpcbfellows.com/  They have 3 types of internships: Design, Engineering and Product. Each has a different deadline. For this one you just apply online.
 
+## Internships for Freshmen and Sophomores
+Note: The internships in this section are specifically open for Freshmen and/or Sophomores. Internships for all students are not listed here.
+
+[Google Engineering Practicum Intern](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2017-901-cherry-ave-san-bruno-ca-usa-1822470062&)
+
+[Facebook University for Engineering](https://m.facebook.com/careers/university/fbueng)
+
+[Microsoft Explore](https://careers.microsoft.com/students/explore)
+
+Pinterest Engage Software Engineer Intern (Freshmen only)
+
+Twitter Academy (Freshmen only)
+
+[Two Sigma Freshman Software Engineering Intern (Freshmen only)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Freshman-Software-Engineering-Intern/1760)
+
+## Other
+[Google Summer of Code](https://developers.google.com/open-source/gsoc/)
+
 ## Preparation
 [Leetcode](https://leetcode.com/)
 
