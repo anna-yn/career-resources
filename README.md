@@ -54,6 +54,8 @@ A list of hackathons in North America: https://mlh.io/seasons/na-2017/events
 ## Communities
 [Women Techmakers](https://www.womentechmakers.com/)
 
+Find a Tech [Meetup](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=san+francisco&gcResults=San+Francisco%2C+CA%2C+USA%3AUS%3ACalifornia%3ASan+Francisco+County%3ASan+Francisco%3Anull%3Anull%3A37.7749295%3A-122.41941550000001&change=yes&sort=default&eventFilter=mysugg) near you. E.g. a [Google Developer Group Meetup](https://www.meetup.com/google-developer-group-san-francisco/)
+
 ### FB Groups: 
 [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers)
 
