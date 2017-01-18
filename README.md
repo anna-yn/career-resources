@@ -21,6 +21,8 @@ Some SWE/PM/Designer related career resources for students
 There's another one that's for internships only:
 KPCB Fellows: http://kpcbfellows.com/  They have 3 types of internships: Design, Engineering and Product. Each has a different deadline. For this one you just apply online.
 
+[Intern Supply](http://www.intern.supply/) A ton of software/design intern portals in one place.
+
 ## CS Internships for Freshmen and Sophomores
 Note: The internships in this section are specifically open for Freshmen and/or Sophomores. Internships for all students are not listed here.
 
