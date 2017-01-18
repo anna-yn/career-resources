@@ -3,6 +3,7 @@ Some SWE/PM/Designer related career resources for students
 
 ## Contents
 - [Career Fair Events](#career-fair-events)
+- [Fellowships](#fellowships)
 - [CS Internships for Freshmen and Sophomores](#cs-internships-for-freshmen-and-sophomores)
 - [Startup Jobs](#startup-jobs)
 - [Companies that have Data Science Internships](#companies-that-have-data-science-internships)
@@ -18,10 +19,14 @@ Some SWE/PM/Designer related career resources for students
 
 [Grace Hopper Conference](http://ghc.anitaborg.org/) This happens later than the last two, but if your school doesn't sponsor you to go then you need to buy the ticket somewhere in July and it's non-refundable. The tickets are sold out super fast. A list of GHC scholarships and their deadlines: https://github.com/freialobo/GHC-Scholarships
 
-There's another one that's for internships only:
-KPCB Fellows: http://kpcbfellows.com/  They have 3 types of internships: Design, Engineering and Product. Each has a different deadline. For this one you just apply online.
-
 [Intern Supply](http://www.intern.supply/) A ton of software/design intern application portals in one place.
+
+## Fellowships
+This basically means you apply, and if you get accepted you'll get to work at cool startups/companies, get mentorship, go to some networking events, etc.
+
+- [KPCB Fellows](http://kpcbfellows.com/)  They have 3 types of internships: Design, Engineering and Product. Each has a different deadline. For this one you just apply online.
+- [HackNY Fellowship Program](https://apply.hackny.org/)
+- [True Entrepreneur Corps (TEC) summer fellowship](https://trueventures.com/tec/)
 
 ## CS Internships for Freshmen and Sophomores
 Note: The internships in this section are specifically open for Freshmen and/or Sophomores. Internships for all students are not listed here.
