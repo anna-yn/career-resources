@@ -58,6 +58,7 @@ Note: The internships in this section are specifically open for Freshmen and/or 
 - [Zillow Big Data Intern](http://www.zillow.com/jobs/openings?j=osrc4fwT)
 
 ## Interview Preparation
+- [Cassidy's Guide on Getting a Gig](https://github.com/cassidoo/getting-a-gig) <- this is gold
 - [Leetcode](https://leetcode.com/)
 - [Facebook Code Lab](https://codelab.interviewbit.com/)
 - [Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
