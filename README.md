@@ -27,6 +27,7 @@ This basically means you apply, and if you get accepted you'll get to work at co
 - [KPCB Fellows](http://kpcbfellows.com/)  They have 3 types of internships: Design, Engineering and Product. Each has a different deadline. For this one you just apply online.
 - [HackNY Fellowship Program](https://apply.hackny.org/)
 - [True Entrepreneur Corps (TEC) summer fellowship](https://trueventures.com/tec/)
+- [PennApps Fellows](http://www.pennappsfellows.com/) 10 week summer internship in Philly, with free housing, fellows events, etc.
 
 ## CS Internships for Freshmen and Sophomores
 Note: The internships in this section are specifically open for Freshmen and/or Sophomores. Internships for all students are not listed here.
