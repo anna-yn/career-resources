@@ -10,6 +10,8 @@ Some SWE/PM/Designer related career resources for students
 - [Companies that have Data Science Internships](#companies-that-have-data-science-internships)
 
 [Things that May Help](#things-that-may-help)
+- [How to write my resume/cover letter/personal project? What if I don't have any experience?](#step-by-step-guides-to-jobs)
+- [What if I'm rejected over and over again?](#handling-rejection)
 - [Interview Preparation](#interview-preparation)
 - [Hackathons](#hackathons)
 - [Communities](#communities)
@@ -64,8 +66,14 @@ Note: The internships in this section are specifically open for Freshmen and/or 
 - [Zillow Big Data Intern](http://www.zillow.com/jobs/openings?j=osrc4fwT)
 
 ## Things that May Help
+### Step-by-step Guides to Jobs
+- [How to land a top-notch tech internship — and a tech job — while you’re still in school](https://medium.freecodecamp.com/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d#.c6bnyhgy7) This article covers things like building fundamentals, your first project, creating a resume, getting ready for interview, etc.
+- [Cassidy's Guide on Getting a Gig](https://github.com/cassidoo/getting-a-gig) This article covers how to write resume, cover letter, which data structures you should know, how to do job search, networking, etc.
+
+### Handling-rejection
+[rejected.us](www.rejected.us)
+
 ### Interview Preparation
-- [Cassidy's Guide on Getting a Gig](https://github.com/cassidoo/getting-a-gig) <- this is gold
 - [Leetcode](https://leetcode.com/)
 - [Facebook Code Lab](https://codelab.interviewbit.com/)
 - [Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
