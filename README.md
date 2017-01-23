@@ -71,7 +71,7 @@ Note: The internships in this section are specifically open for Freshmen and/or 
 - [Cassidy's Guide on Getting a Gig](https://github.com/cassidoo/getting-a-gig) This article covers how to write resume, cover letter, which data structures you should know, how to do job search, networking, etc.
 
 ### Handling-rejection
-[rejected.us](www.rejected.us)
+[rejected.us](http://www.rejected.us)
 
 ### Interview Preparation
 - [Leetcode](https://leetcode.com/)
