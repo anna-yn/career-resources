@@ -43,7 +43,7 @@ Note: The internships in this section are specifically open for Freshmen and/or 
 - [Google Engineering Practicum Intern](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2017-901-cherry-ave-san-bruno-ca-usa-1822470062&)
 - [Facebook University for Engineering](https://m.facebook.com/careers/university/fbueng)
 - [Microsoft Explore](https://careers.microsoft.com/students/explore)
-- Pinterest Engage Software Engineer Intern (Freshmen only)
+- [Pinterest Engage Software Engineer Intern (Freshmen only)](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_463988)
 - Twitter Academy (Freshmen only)
 - [Two Sigma Freshman Software Engineering Intern (Freshmen only)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Freshman-Software-Engineering-Intern/1760)
 
