@@ -6,6 +6,7 @@ Some SWE/PM/Designer related career resources for students
 - [Career Fair Events](#career-fair-events)
 - [Fellowships](#fellowships)
 - [CS Internships for Freshmen and Sophomores](#cs-internships-for-freshmen-and-sophomores)
+- [Research and Academic Internship Programs Around the World](#research-and-academic-internship-programs-around-the-world)
 - [Startup Jobs](#startup-jobs)
 - [Companies that have Data Science Internships](#companies-that-have-data-science-internships)
 
@@ -46,6 +47,9 @@ Note: The internships in this section are specifically open for Freshmen and/or 
 - [Pinterest Engage Software Engineer Intern (Freshmen only)](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_463988)
 - Twitter Academy (Freshmen only)
 - [Two Sigma Freshman Software Engineering Intern (Freshmen only)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Freshman-Software-Engineering-Intern/1760)
+
+### Research and Academic Internship Programs Around the World
+[Here](https://docs.google.com/spreadsheets/d/156w8lIQ33hYWrRJ8rjaWcTl3TEogIVf23P1jitmi3IM/edit#gid=0]) is a list of them and their deadlines, countries, etc.
 
 ### Startup Jobs
 - [AngelList](https://angel.co/jobs)
