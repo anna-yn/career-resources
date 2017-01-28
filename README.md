@@ -75,8 +75,8 @@ Note: The internships in this section are specifically open for Freshmen and/or 
 - [How to land a top-notch tech internship — and a tech job — while you’re still in school](https://medium.freecodecamp.com/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d#.c6bnyhgy7) This article covers things like building fundamentals, your first project, creating a resume, getting ready for interview, etc.
 - [Cassidy's Guide on Getting a Gig](https://github.com/cassidoo/getting-a-gig) This article covers how to write resume, cover letter, which data structures you should know, how to do job search, networking, etc.
 
-### Handling-rejection
-[rejected.us](http://www.rejected.us)
+### Handling Rejection
+Persistence and hard work _can_ make the difference. And keep in mind that rejections are part of life and not a disgrace. I know it's hard to believe sometimes, so take a look at this: [rejected.us](http://www.rejected.us). Keep fighting :)
 
 ### Interview Preparation
 - [Leetcode](https://leetcode.com/)
