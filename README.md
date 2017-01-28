@@ -16,6 +16,7 @@ Some SWE/PM/Designer related career resources for students
 - [Interview Preparation](#interview-preparation)
 - [Hackathons](#hackathons)
 - [Communities](#communities)
+- [Salary-related Survey Responses](#salary-related-survey-responses)
 - [Other](#other)
 
 ## The Job Search
@@ -97,6 +98,9 @@ A list of hackathons in North America: https://mlh.io/seasons/na-2017/events
 - [HH Interview Experiences](https://www.facebook.com/groups/interviewexper)
 - [HH Websites and Resumes](https://www.facebook.com/groups/1487708811477672)
 - [HH Job Listings](https://www.facebook.com/groups/254805221385780)
+
+### Salary-related Survey Responses
+[This response form](https://docs.google.com/spreadsheets/d/1NZLCpnaaKCMIb0OrKElEOcuuCKbG4zUggy2PNgJnYys/edit#gid=1723005296) is collected through the [cscareerquestions](https://www.reddit.com/r/cscareerquestions/) subreddit's salary survey. It contains salary info of people across all experience levels around the world.
 
 ### Other
 - [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
