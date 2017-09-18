@@ -48,6 +48,7 @@ Note: The internships in this section are specifically open for Freshmen and/or 
 - [Pinterest Engage Software Engineer Intern (Freshmen only)](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_463988)
 - Twitter Academy (Freshmen only)
 - [Two Sigma Freshman Software Engineering Intern (Freshmen only)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Freshman-Software-Engineering-Intern/1760)
+- [Palantir Path Internship](https://jobs.lever.co/palantir/1a13a5e8-dc42-4655-a5de-dbc120763f1e)
 
 ### Research and Academic Internship Programs Around the World
 [Here](https://docs.google.com/spreadsheets/d/156w8lIQ33hYWrRJ8rjaWcTl3TEogIVf23P1jitmi3IM/edit#gid=0]) is a list of them and their deadlines, countries, etc.
