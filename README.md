@@ -20,6 +20,7 @@ Some SWE/PM/Designer related career resources for students
 - [Other](#other)
 
 ## The Job Search
+[Apply everywhere challange](https://docs.google.com/document/d/1clku6Fm_tpfGaYIZSGCtM4Zdo_NEkCuSb6E_p1NOUKU/edit) A list of internships/full time jobs that you can apply to
 ### Career Fair Events
 [Greylock Techfair](https://www.greylock.com/greylock-u/techfair/) Greylock is a very successful VC firm (they invested in Facebook, Airbnb, Linkedin). They organize a career fair every summer in SF and you need to apply and get accepted to be there. Companies like Airbnb, Pinterest, Quora, etc. will come. They share your resumes with the companies before the event so you don't have to bring a resume, but I still strongly recommend you show up in person.
 
