@@ -21,6 +21,9 @@ Some SWE/PM/Designer related career resources for students
 
 ## The Job Search
 [Apply everywhere challange](https://docs.google.com/document/d/1clku6Fm_tpfGaYIZSGCtM4Zdo_NEkCuSb6E_p1NOUKU/edit) A list of internships/full time jobs that you can apply to
+[The 2018 Wealthfront career launching companies list](https://blog.wealthfront.com/2018-wealthfront-career-launching-companies-list/) A list of US based private mid-sized companies that have a revenue run rate of between $20M and $300M, be on a trajectory to grow at a rate in excess of 50% for at least the next three or four years and have compelling unit economics.
+
+
 ### Career Fair Events
 [Greylock Techfair](https://www.greylock.com/greylock-u/techfair/) Greylock is a very successful VC firm (they invested in Facebook, Airbnb, Linkedin). They organize a career fair every summer in SF and you need to apply and get accepted to be there. Companies like Airbnb, Pinterest, Quora, etc. will come. They share your resumes with the companies before the event so you don't have to bring a resume, but I still strongly recommend you show up in person.
 
