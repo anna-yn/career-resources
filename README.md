@@ -21,6 +21,8 @@ Some SWE/PM/Designer related career resources for students
 
 ## The Job Search
 [Apply everywhere challange](https://docs.google.com/document/d/1clku6Fm_tpfGaYIZSGCtM4Zdo_NEkCuSb6E_p1NOUKU/edit) A list of internships/full time jobs that you can apply to
+
+
 [The 2018 Wealthfront career launching companies list](https://blog.wealthfront.com/2018-wealthfront-career-launching-companies-list/) A list of US based private mid-sized companies that have a revenue run rate of between $20M and $300M, be on a trajectory to grow at a rate in excess of 50% for at least the next three or four years and have compelling unit economics.
 
 
