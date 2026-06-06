@@ -23,6 +23,9 @@ Some SWE/PM/Designer related career resources for students
 [Apply everywhere challange](https://docs.google.com/document/d/1clku6Fm_tpfGaYIZSGCtM4Zdo_NEkCuSb6E_p1NOUKU/edit) A list of internships/full time jobs that you can apply to
 
 
+[Hanzilla Jobs](https://jobs.hanzilla.co/internships/) A free daily-updated Canadian student/recent-grad jobs board for internships, co-ops, new-grad, junior, and entry-level roles across software, data, finance, engineering, business, sciences, and related fields. See also the [new grad guide](https://jobs.hanzilla.co/new-grad/) and [about/verification page](https://jobs.hanzilla.co/about/).
+
+
 [The 2018 Wealthfront career launching companies list](https://blog.wealthfront.com/2018-wealthfront-career-launching-companies-list/) A list of US based private mid-sized companies that have a revenue run rate of between $20M and $300M, be on a trajectory to grow at a rate in excess of 50% for at least the next three or four years and have compelling unit economics.
 
 
