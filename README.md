@@ -78,6 +78,9 @@ Note: The internships in this section are specifically open for Freshmen and/or 
 - [Zillow Big Data Intern](http://www.zillow.com/jobs/openings?j=osrc4fwT)
 
 ## Things that May Help
+### Resume Tools
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot with a job-fit test, resume translation in 19 languages, and a Markdown resume editor.
+
 ### Step-by-step Guides to Jobs
 - [How to land a top-notch tech internship — and a tech job — while you’re still in school](https://medium.freecodecamp.com/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d#.c6bnyhgy7) This article covers things like building fundamentals, your first project, creating a resume, getting ready for interview, etc.
 - [Cassidy's Guide on Getting a Gig](https://github.com/cassidoo/getting-a-gig) This article covers how to write resume, cover letter, which data structures you should know, how to do job search, networking, etc.
